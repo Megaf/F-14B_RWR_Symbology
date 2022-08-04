@@ -30,14 +30,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="538.5"
-     inkscape:cy="418"
+     inkscape:cx="515"
+     inkscape:cy="431"
      inkscape:window-width="1920"
      inkscape:window-height="1136"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="g4508"
      showguides="true" />
   <defs
      id="defs27105" />
@@ -45,7 +45,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Background"
-     style="display:none;fill:#000000">
+     style="display:inline;fill:#000000">
     <g
        inkscape:groupmode="layer"
        id="layer5"
@@ -1996,7 +1996,7 @@
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#24a84d;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-         d="m 111.78104,-201.59669 v 7.73955"
+         d="m 111.78104,-201.59669 v 8.1272"
          id="path1803"
          sodipodi:nodetypes="cc" />
     </g>
